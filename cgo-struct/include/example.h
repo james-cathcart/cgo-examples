@@ -2,7 +2,7 @@
 
 struct foo {
     int id;
-	char *info;
+    char *info;
     int info_len;
 };
 
